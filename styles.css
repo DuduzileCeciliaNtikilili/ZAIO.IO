@@ -35,8 +35,8 @@ header .top-navbar .logo span{
 }
 #top-menu ul li{
 	line-height: 50px;
-	display: inline;
-	padding-left: 30px; 
+	display: flex ;
+	padding-right: 30px; 
 }
 header .header-img{
 	height: 500px;
@@ -92,7 +92,7 @@ header .header-img{
 	font-family: 'Exo', sans-serif;
 }
 .brand .brand-item img{
-	width: 80px;
+	width: 40px;
 }
 
 /*FOOTER*/
